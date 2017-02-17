@@ -1,6 +1,6 @@
 <img src="http://i66.tinypic.com/262ksxf.png" border="0" alt="Simple HelpOp">
 
-<h2>Introduction<h2>
+<h2>Introduction</h2>
 <p>Simple HelpOp was created to fill a void between complex and extremely simple player-to-staff help messaging systems. Unlike other plugins that ride around the same functionality, Simple HelpOp allows for the server owner to fully customize the look of the plugin, while at the same time keeping it lightweight and simple. With just a few in-game commands a player will not get confused on what to use, and with the ability for the server owner to customize what everything looks like provides for a better looking server with the same functionality.</p>
 
 <h2>Command and Permission Usage:</h2>
