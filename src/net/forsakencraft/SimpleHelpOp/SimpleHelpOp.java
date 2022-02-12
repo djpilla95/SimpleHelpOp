@@ -20,7 +20,6 @@ public class SimpleHelpOp extends JavaPlugin {
 	
 	/* To-Do
 	 * Add /helpop ? help menu
-	 * Re-program to be object-oriented
 	 */
 
 	public boolean onCommand( CommandSender sender, Command cmd, String label, String[] args ) {
