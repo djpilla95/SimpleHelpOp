@@ -1,0 +1,19 @@
+#Author: ForsakenRealmz
+#Customize the prefix before an admin message sent to a player. All color codes supported
+AdminToPlayerPrefix: '&4[From Admin] '
+#Change the color of admin messages sent to players
+AdminToPlayerMsgColor: '&6'
+#A simple confirmation message sent to the admin after sending a /hoa command
+ConfirmMsgSentToAdmin: '&6Message sent to &c%player%'
+#The default message sent to players who do not have permission to use commands
+NoPermissions: '&cError: You lack permissions to use this command!'
+#The message sent to yourself after using /hoa reload or /HelpOpAdmin reload
+ConfigReloaded: '&a[Simple HelpOp] &cReloaded!'
+#The player will receive this message once they send a help message to the staff
+SuccessfullySentToAdminMsg: '&6Message sent to the staff!'
+#Format what the message looks like when your staff receive the help message
+FormatMsgToAdmins: '&4[Help]&6 [From] %player%: &a%msg%'
+#A header placed above the X amount of previous helpop request
+HelpOpHistoryHeader: '&a<---- &fSimple &cHelpOp &a---->'
+#You will see this amount of HelpOp request in the /HelpOpAdmin History command
+NumberOfHelpOpRequest: 3

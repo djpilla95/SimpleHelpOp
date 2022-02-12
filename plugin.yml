@@ -1,0 +1,24 @@
+name: SimpleHelpOp
+version: 1.1
+author: ForsakenRealmz
+description: A plugin for players to get help from a staff member using a simple /helpop command!
+
+main: net.forsakencraft.SimpleHelpOp.SimpleHelpOp
+
+commands:
+    helpop:
+        aliases: [ask]
+        description: Request help from a staff member
+    helpopadmin:
+        aliases: [hoa]
+        description: Reply to a player in need
+permissions:
+    simple.helpop.send:
+        description: Gives the player the ability to send messages to the staff team
+        default: op
+    simple.helpop.admin:
+        description: Gives the player the ability to send Admin messages and receive help messages
+        default: op
+    simple.helpop.reload:
+        description: Gives the player the ability to reload the configuation file for Simple HelpOp
+        default: op
